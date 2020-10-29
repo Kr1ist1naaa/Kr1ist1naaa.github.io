@@ -8,7 +8,7 @@
 <p>Matriklinumber: 205986</p>
 <li><a href="https://taltech.ee/">taltech link</a></li>
 <hr>
-<p>The guinea pig or domestic guinea pig , also known as cavy or domestic cavy (/ˈkeɪvi/), is a species of rodent belonging to the family Caviidae and the genus Cavia. Despite their common name, guinea pigs are not native to Guinea, nor are they closely biologically related to pigs, and the origin of the name is still unclear. They originated in the Andes of South America. Studies based on biochemistry and hybridization suggest they are domesticated descendants of a closely related species of cavy, such as C. tschudii, and do not exist naturally in the wild. They were originally domesticated as livestock, for a source of meat, and continue to be consumed as food.
+<p>Guinea pigs are large for rodents; the common pet breeds weigh between 700 and 1,200 g when full grown and measure between 20 and 25 cm in length. Some livestock breeds weigh 3 kilograms when full grown. Pet breeds live an average of four to five years, but may live as long as eight. According to the 2006 Guinness World Records, the longest living guinea pig survived 14 years, 10.5 months. Most guinea pigs have fur, but one laboratory breed adopted by some pet owners, the skinny pig, is a mostly furless breed. Some breeds are longfur breeds such as the Peruvian, the Silkie, and the Texel. In the 1990s, a minority scientific opinion emerged proposing that caviomorphs, such as guinea pigs, chinchillas, and degus, are not rodents and should be reclassified as a separate order of mammals (similar to lagomorphs).Subsequent research using wider sampling restored the consensus among mammalian biologists regarding the current classification of rodents as monophyletic.
 <br>
 <img src="https://assets.petco.com/petco/image/upload/f_auto,q_auto/849430-center-3">
 <br>
@@ -32,8 +32,7 @@ background-color: #FF7F50;
 </head>
 <body>
 
-<h2>Some more information</h2>
-
+<h2>Characteristics</h2>
 <table>
 <tr>
 <th>Vocalization</th>
